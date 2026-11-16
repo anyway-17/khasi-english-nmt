@@ -1,0 +1,16 @@
+# Model weights (too large for GitHub)
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+mbart-kha/
+*.tar.gz
+
+# Logs
+logs/
+
+# Junk
+__pycache__/
+*.pyc
+.DS_Store

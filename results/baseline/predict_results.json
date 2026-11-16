@@ -1,0 +1,10 @@
+{
+    "predict_bleu": 26.7972,
+    "predict_gen_len": 61.6225,
+    "predict_loss": 1.3059709072113037,
+    "predict_model_preparation_time": 0.0073,
+    "predict_runtime": 881.9566,
+    "predict_samples": 2601,
+    "predict_samples_per_second": 2.949,
+    "predict_steps_per_second": 0.37
+}
